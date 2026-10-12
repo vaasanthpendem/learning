@@ -1,0 +1,30 @@
+$date
+	Sun Feb 08 16:33:37 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var reg 4 ! count [3:0] $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 !
+$end
+#10
+b1 !
+#20
+b10 !
+#30
+b11 !
+#40
+b100 !
+#50
+b101 !
